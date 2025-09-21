@@ -1,0 +1,7 @@
+# llms.txt for bnovik0v.github.io
+# Last updated: 2025-09-21
+
+User-agent: *
+Allow: /
+
+Sitemap: https://bnovik0v.github.io/sitemap.xml
